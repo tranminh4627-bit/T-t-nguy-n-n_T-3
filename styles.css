@@ -1,11 +1,3 @@
-body{
-  background-image: url("img/nentet.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  color: black;
-}
 .banner {
     background: url("img
 /nentet.jpg") no-repeat center center;
@@ -13,8 +5,8 @@ body{
     padding-top: 12rem;
     padding-bottom: 12rem;
     text-align: center !important;
-    color: white; !important;
-    font-size: 25px;
+    color: black; !important;
+    font-size: 50px;
 }
 
 .slogan {
