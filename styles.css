@@ -63,5 +63,16 @@
 }
 a:hover{
     color: magenta
+.banner{
+  background-image: url("./img/nentet.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  height: 400px;
+}
+
+.title{
+  color: black !important;
+}
 
 
