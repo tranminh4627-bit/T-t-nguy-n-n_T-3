@@ -2,10 +2,10 @@
     background: url("img
 /nentet.jpg") no-repeat center center;
     background-size: cover; /*Hình ảnh có thể bị cắt để lấp đầy toàn bộ phần tử*/
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 100rem;
+    padding-bottom: 100rem;
     text-align: center !important;
-    color: white; !important;
+    color: black; !important;
     font-size: 25px;
 }
 
