@@ -1,4 +1,12 @@
-﻿.banner {
+body{
+  background-image: url("img/nentet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: black;
+}
+.banner {
     background: url("img
 /nentet.jpg") no-repeat center center;
     background-size: cover; /*Hình ảnh có thể bị cắt để lấp đầy toàn bộ phần tử*/
@@ -63,14 +71,5 @@
 }
 a:hover{
     color: magenta
-body{
-  background-image: url("img/nentet.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
 
-.title{
-  color: black;
-}
 
